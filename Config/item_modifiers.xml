@@ -1,0 +1,17 @@
+<config>
+    <append xpath="/item_modifiers">
+        <item_modifier name="modAugerFuelSaver" installable_tags="motorTool" modifier_tags="scope,speacialDamage" blocked_tags="noMods" type="attachment">
+            <property name="UnlockedBy" value="modAugerFuelSaverSchematic"/>
+            <property name="CustomIcon" value="ammoGasCan"/>
+            <property name="Stacknumber" value="1"/>
+            <property name="Group" value="Mods"/>
+            <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+            <property name="DescriptionKey" value="modAugerFuelSaverDesc"/>
+            <effect_group tiered="false">
+                <passive_effect name="EntityDamage" operation="base_set" value="4.83" tags="perkMiner69r"/>
+		        <passive_effect name="BlockDamage" operation="base_set" value="23.8" tags="perkMiner69r,miningTool"/>
+		        <passive_effect name="RoundsPerMinute" operation="base_set" value="255" tags="perkMiner69r"/>
+            </effect_group>
+        </item_modifier>
+    </append>
+</config>

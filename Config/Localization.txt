@@ -1,0 +1,4 @@
+﻿Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
+modAugerFuelSaver,item_modifiers,mod,,,Auger Fuel Saver,,,,,
+modAugerFuelSaverDesc,item_modifiers,mod,,,Decreases the fuel drain from using the auger,,,,,
+modAugerFuelSaverSchematic,item_modifiers,Mod,,,Auger Fuel Saver Mod,,,,,

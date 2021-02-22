@@ -1,0 +1,15 @@
+<config>
+
+	<append xpath="/recipes">
+		
+		<recipe name="modAugerFuelSaver" count="1" craft_area="workbench" tags="learnable">
+			<ingredient name="resourceForgedIron" count="30"/>
+			<ingredient name="resourceNail" count="15"/>
+			<ingredient name="resourceDuctTape" count="5"/>
+			<ingredient name="resourceMechanicalParts" count="5"/>
+		</recipe>
+		
+	</append>
+
+
+</config>
