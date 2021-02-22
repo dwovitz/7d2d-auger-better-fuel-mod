@@ -2,7 +2,8 @@
     <append xpath="/item_modifiers">
         <item_modifier name="modAugerFuelSaver" installable_tags="motorTool" modifier_tags="scope,speacialDamage" blocked_tags="noMods" type="attachment">
             <property name="UnlockedBy" value="modAugerFuelSaverSchematic"/>
-            <property name="CustomIcon" value="ammoGasCan"/>
+            <property name="CustomIcon" value="modFuelTankLarge"/>
+            <property name="CustomIconTint" value="4383bf"/>
             <property name="Stacknumber" value="1"/>
             <property name="Group" value="Mods"/>
             <property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
